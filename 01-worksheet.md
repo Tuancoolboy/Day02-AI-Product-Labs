@@ -166,11 +166,11 @@ Nếu vẫn bí ý tưởng, đọc nhanh các gợi ý dưới đây rồi quay
 
 | # | Lăng kính | Problem quan sát được | Ai đang đau? | Dấu hiệu thật |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
+| 1 | AI có thể tốt hơn | Không biết bài nộp còn thiếu phần nào sau khi đọc yêu cầu lab dài | Học viên đang làm bài lab | Phải đọc lại yêu cầu nhiều lần, dễ bỏ sót mục cần nộp hoặc thiếu field trong bài |
+| 2 | Tốn thời gian | Đọc tài liệu dài mất thời gian, khó lọc ý chính | Học viên | Mất nhiều thời gian để đọc hết tài liệu và tự tìm phần quan trọng cần làm |
+| 3 | Lặp lại | Quên deadline bài tập hoặc deadline nhóm | Học viên / nhóm học | Có lúc nộp sát giờ, quên task, hoặc phải hỏi lại deadline trong nhóm |
+| 4 | Tốn thời gian | Không biết cần nộp những file nào sau khi đọc yêu cầu lab dài | Học viên đang chuẩn bị nộp bài | Phải kiểm tra lại nhiều lần, dễ nộp thiếu file hoặc đặt sai cấu trúc thư mục |
+| 5 | Pain từ người khác | Tổng hợp ý kiến nhóm sau khi thảo luận bị rối | Thành viên nhóm / nhóm trưởng | Ý kiến nằm rải rác trong chat hoặc notes, khó chốt lại quyết định cuối |
 | 6 | | | | |
 | 7 | | | | |
 | 8 | | | | |
@@ -227,9 +227,9 @@ Tiêu chí chọn:
 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Không biết bài nộp còn thiếu phần nào sau khi đọc yêu cầu lab dài | Sát với bài lab hiện tại, actor rõ, workflow dễ vẽ, có thể đo bằng thời gian kiểm tra và số mục bị thiếu | Cần biết yêu cầu bài nộp có đủ rõ để chuyển thành checklist hay không |
+| 2 | Không biết cần nộp những file nào sau khi đọc yêu cầu lab dài | Rất thực tế khi chuẩn bị nộp bài, dễ có checklist file/folder, dễ kiểm tra trước khi submit | Có thể trùng một phần với problem #1, cần xác định scope là kiểm file hay kiểm nội dung |
+| 3 | Đọc tài liệu dài mất thời gian, khó lọc ý chính | Xảy ra thường xuyên khi học, AI có thể hỗ trợ tóm tắt và rút ra việc cần làm, dễ đo thời gian đọc | Tóm tắt của AI có thể bỏ sót ý quan trọng nếu tài liệu dài hoặc yêu cầu phức tạp |
 
 ## Problem Card template
 
