@@ -1,7 +1,3 @@
-# Ví dụ bản nộp — Kiểm tra bài nộp lab trước và sau AI
-
-> Bản này làm theo cấu trúc của `02-deliverable-example.md`, nhưng đổi nội dung sang case học viên AI trong khóa học. Mục tiêu là học cách đi từ problem scan → workflow → top 3 Problem Cards → chọn candidate đáng pitch.
-
 Case ví dụ: **AI Lab Submission**
 
 Nhân vật ví dụ: Nam, học viên đang tham gia khóa AI Product Labs. Nam có nền tảng lập trình cơ bản, mới bắt đầu học cách xác định problem, vẽ workflow, dùng AI đúng chỗ và làm các bài lab kỹ thuật. Mỗi buổi học Nam phải đọc worksheet dài, làm bài cá nhân, phối hợp nhóm, chạy code/demo, nhận feedback và nộp repo đúng deadline.
