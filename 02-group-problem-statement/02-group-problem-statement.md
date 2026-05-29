@@ -2,14 +2,13 @@
 
 ## Group convergence
 
-Nhóm 3-4 người, mỗi người share top 3. Tổng cộng khoảng 9-12 candidates.
+Nhóm 3 người, mỗi người share top 3. Tổng cộng **9 candidates**.
 
 | Cluster | Candidate examples | Pattern chung |
 |---|---|---|
-| RAG evaluation / AI reliability | Manual RAG Test, Loop Agent đốt tiền, JSON Parsing Error | Kiểm soát chất lượng, chi phí và độ ổn định khi đưa AI/RAG vào workflow kỹ thuật |
-| Quyết định cá nhân hằng ngày | Không biết ăn gì hôm nay, không biết mặc gì ra đường, so sánh sản phẩm trước khi mua | Các quyết định nhỏ lặp lại, tốn năng lượng lựa chọn và cần gợi ý theo context cá nhân |
-| AI lab / học tập | Kiểm tra bài nộp lab, setup môi trường lab AI, tìm lại câu trả lời cũ trong nhóm chat | Học viên cần hoàn thành lab đúng yêu cầu, xử lý lỗi và truy xuất lại tri thức lớp học |
-| Tìm kiếm / truy xuất thông tin | Tìm câu trả lời cũ, so sánh review, truy xuất source/chunk trong RAG | Tìm đúng thông tin từ nhiều nguồn rời rạc và cần kiểm chứng nguồn |
+| AI Application / Lab workflow | Kiểm tra bài nộp lab còn thiếu phần nào, Setup môi trường lab AI bị lỗi, Tìm lại câu trả lời cũ trong nhóm chat | Học viên cần hoàn thành lab đúng yêu cầu, xử lý lỗi kỹ thuật và truy xuất lại tri thức lớp học |
+| AI Daily for Life | Không biết ăn gì hôm nay, Không biết mặc gì ra đường, So sánh sản phẩm trước khi mua | Các quyết định nhỏ lặp lại hằng ngày, tốn năng lượng lựa chọn và có thể được gợi ý theo context cá nhân |
+| RAG / AI Reliability | Manual RAG Test, Loop Agent đốt tiền, JSON Parsing Error | Kiểm soát chất lượng, chi phí và độ ổn định khi đưa AI/RAG vào workflow kỹ thuật |
 
 ## Shortlist và score
 
