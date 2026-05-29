@@ -1,3 +1,7 @@
+# Ví dụ bản nộp — Kiểm tra bài nộp lab trước và sau AI
+
+> Bản này làm theo cấu trúc của `02-deliverable-example.md`, nhưng đổi nội dung sang case học viên AI trong khóa học. Mục tiêu là học cách đi từ problem scan → workflow → top 3 Problem Cards → chọn candidate đáng pitch.
+
 Case ví dụ: **AI Lab Submission**
 
 Nhân vật ví dụ: Nam, học viên đang tham gia khóa AI Product Labs. Nam có nền tảng lập trình cơ bản, mới bắt đầu học cách xác định problem, vẽ workflow, dùng AI đúng chỗ và làm các bài lab kỹ thuật. Mỗi buổi học Nam phải đọc worksheet dài, làm bài cá nhân, phối hợp nhóm, chạy code/demo, nhận feedback và nộp repo đúng deadline.
@@ -92,18 +96,33 @@ Workflow.
 
 ### Draft workflow — Top 1: Kiểm tra bài nộp lab còn thiếu phần nào
 
-- Current workflow: [Top 1 Current](https://drive.google.com/file/d/1tQmE0t2HXzla1StzCakcL2hTUbDmVzRo/view?usp=sharing)
-- Future workflow: [Top 1 Future](https://drive.google.com/file/d/1XR4f4Roxbxo2TeeiKWwBwUB65fcGaptJ/view?usp=sharing)
+**Current workflow**
+
+![Top 1 Current Workflow](https://drive.google.com/thumbnail?id=1tQmE0t2HXzla1StzCakcL2hTUbDmVzRo&sz=w1600)
+
+**Future workflow**
+
+![Top 1 Future Workflow](https://drive.google.com/thumbnail?id=1XR4f4Roxbxo2TeeiKWwBwUB65fcGaptJ&sz=w1600)
 
 ### Draft workflow — Top 2: Setup môi trường lab AI bị lỗi
 
-- Current workflow: [Top 2 Current](https://drive.google.com/file/d/1W_4Sht9eJqzy3NoTT623O1i0Z7pOc-hU/view?usp=sharing)
-- Future workflow: [Top 2 Future](https://drive.google.com/file/d/1_583NbVHm64WBgoWMb1AfcbveYsFRiC8/view?usp=sharing)
+**Current workflow**
+
+![Top 2 Current Workflow](https://drive.google.com/thumbnail?id=1W_4Sht9eJqzy3NoTT623O1i0Z7pOc-hU&sz=w1600)
+
+**Future workflow**
+
+![Top 2 Future Workflow](https://drive.google.com/thumbnail?id=1_583NbVHm64WBgoWMb1AfcbveYsFRiC8&sz=w1600)
 
 ### Draft workflow — Top 3: Tìm lại câu trả lời cũ trong nhóm chat
 
-- Current workflow: [Top 3 Current](https://drive.google.com/file/d/15jRjtWPtgcr9zN2LRwPXomcBwp0KYsLv/view?usp=sharing)
-- Future workflow: [Top 3 Future](https://drive.google.com/file/d/19-caODzDqg5A4UQLTWO3iNhDfI1vi_PA/view?usp=sharing)
+**Current workflow**
+
+![Top 3 Current Workflow](https://drive.google.com/thumbnail?id=15jRjtWPtgcr9zN2LRwPXomcBwp0KYsLv&sz=w1600)
+
+**Future workflow**
+
+![Top 3 Future Workflow](https://drive.google.com/thumbnail?id=19-caODzDqg5A4UQLTWO3iNhDfI1vi_PA&sz=w1600)
 
 ---
 
