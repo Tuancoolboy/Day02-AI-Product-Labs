@@ -171,11 +171,13 @@ Nếu vẫn bí ý tưởng, đọc nhanh các gợi ý dưới đây rồi quay
 | 3 | Lặp lại | Quên deadline bài tập hoặc deadline nhóm | Học viên / nhóm học | Có lúc nộp sát giờ, quên task, hoặc phải hỏi lại deadline trong nhóm |
 | 4 | Tốn thời gian | Không biết cần nộp những file nào sau khi đọc yêu cầu lab dài | Học viên đang chuẩn bị nộp bài | Phải kiểm tra lại nhiều lần, dễ nộp thiếu file hoặc đặt sai cấu trúc thư mục |
 | 5 | Pain từ người khác | Tổng hợp ý kiến nhóm sau khi thảo luận bị rối | Thành viên nhóm / nhóm trưởng | Ý kiến nằm rải rác trong chat hoặc notes, khó chốt lại quyết định cuối |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-| 9 | | | | |
-| 10 | | | | |
+| 6 | Tốn thời gian | Tìm lại câu trả lời cũ trong Discord/Zalo/nhóm chat mất thời gian | Học viên | Có câu đã được trả lời nhưng phải kéo chat hoặc search nhiều lần mới thấy |
+| 7 | Lặp lại | Người mới vào nhóm/lớp phải hỏi lại cách nộp bài, link tài liệu hoặc format repo | Học viên mới | Cùng một câu hỏi xuất hiện nhiều lần trong nhóm chat hoặc Discord |
+| 8 | Pain từ người khác | Phân công task nhóm không rõ ai làm gì | Thành viên nhóm | Có việc bị trùng người làm, có việc không ai nhận, đến gần deadline mới phát hiện |
+| 9 | AI có thể tốt hơn | Ghi chú bài học rời rạc, sau này khó ôn lại | Học viên | Notes nằm ở nhiều nơi như vở, file, Notion, chat nên khó tìm lại ý chính |
+| 10 | Tốn thời gian | Ôn tập từ nhiều nguồn rời rạc khó hệ thống kiến thức | Học viên | Phải mở nhiều file/link/video rồi tự ghép lại thành dàn ý ôn tập |
+| 11 | Lặp lại | Theo dõi tiến độ cá nhân trong khóa học khó | Học viên | Không biết mình đã xong phase nào, còn thiếu bài nào, hoặc cần làm tiếp bước gì |
+| 12 | AI có thể tốt hơn | Không biết ưu tiên làm phần nào trước khi có nhiều deadline cùng lúc | Học viên | Dễ làm việc ít quan trọng trước, còn phần cần nộp gấp thì xử lý sát giờ |
 
 Gợi ý cho `Dấu hiệu thật`: mất bao lâu, xảy ra mấy lần/tuần, bao nhiêu người gặp, có log/ticket/review/comment không, nếu không sửa thì hậu quả là gì.
 
