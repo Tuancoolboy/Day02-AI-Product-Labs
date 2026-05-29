@@ -169,13 +169,13 @@ Nếu vẫn bí ý tưởng, đọc nhanh các gợi ý dưới đây rồi quay
 | 1 | AI có thể tốt hơn | Không biết bài nộp còn thiếu phần nào sau khi đọc yêu cầu lab dài | Học viên đang làm bài lab | Phải đọc lại yêu cầu nhiều lần, dễ bỏ sót mục cần nộp hoặc thiếu field trong bài |
 | 2 | Tốn thời gian | Đọc tài liệu dài mất thời gian, khó lọc ý chính | Học viên | Mất nhiều thời gian để đọc hết tài liệu và tự tìm phần quan trọng cần làm |
 | 3 | Lặp lại | Quên deadline bài tập hoặc deadline nhóm | Học viên / nhóm học | Có lúc nộp sát giờ, quên task, hoặc phải hỏi lại deadline trong nhóm |
-| 4 | Tốn thời gian | Không biết cần nộp những file nào sau khi đọc yêu cầu lab dài | Học viên đang chuẩn bị nộp bài | Phải kiểm tra lại nhiều lần, dễ nộp thiếu file hoặc đặt sai cấu trúc thư mục |
+| 4 | Tốn thời gian | Cài đặt môi trường học/lab bị lỗi và mất nhiều thời gian tự sửa | Học viên đang làm lab kỹ thuật | Gặp lỗi dependency, sai version, thiếu package; phải search nhiều nguồn hoặc hỏi bạn khác mới chạy được |
 | 5 | Pain từ người khác | Tổng hợp ý kiến nhóm sau khi thảo luận bị rối | Thành viên nhóm / nhóm trưởng | Ý kiến nằm rải rác trong chat hoặc notes, khó chốt lại quyết định cuối |
 | 6 | Tốn thời gian | Tìm lại câu trả lời cũ trong Discord/Zalo/nhóm chat mất thời gian | Học viên | Có câu đã được trả lời nhưng phải kéo chat hoặc search nhiều lần mới thấy |
-| 7 | Lặp lại | Người mới vào nhóm/lớp phải hỏi lại cách nộp bài, link tài liệu hoặc format repo | Học viên mới | Cùng một câu hỏi xuất hiện nhiều lần trong nhóm chat hoặc Discord |
+| 7 | Lặp lại | Điền form đăng ký, khảo sát hoặc thông tin cá nhân nhiều lần dễ sai sót | Học viên / người tham gia khóa học | Phải nhập lại cùng thông tin ở nhiều form khác nhau, dễ sai email, số điện thoại hoặc mã học viên |
 | 8 | Pain từ người khác | Phân công task nhóm không rõ ai làm gì | Thành viên nhóm | Có việc bị trùng người làm, có việc không ai nhận, đến gần deadline mới phát hiện |
-| 9 | AI có thể tốt hơn | Ghi chú bài học rời rạc, sau này khó ôn lại | Học viên | Notes nằm ở nhiều nơi như vở, file, Notion, chat nên khó tìm lại ý chính |
-| 10 | Tốn thời gian | Ôn tập từ nhiều nguồn rời rạc khó hệ thống kiến thức | Học viên | Phải mở nhiều file/link/video rồi tự ghép lại thành dàn ý ôn tập |
+| 9 | AI có thể tốt hơn | Không biết lỗi trong bài code/lab đến từ dữ liệu, logic hay cách chạy lệnh | Học viên làm lab kỹ thuật | Khi chương trình lỗi, phải đọc log dài và thử nhiều cách sửa nhưng không biết nguyên nhân chính |
+| 10 | Pain từ người khác | Nhận feedback bài làm nhưng không biết nên sửa phần nào trước | Học viên nhận review từ mentor/bạn học | Feedback có nhiều ý rời rạc, khó ưu tiên lỗi quan trọng trước deadline |
 | 11 | Lặp lại | Theo dõi tiến độ cá nhân trong khóa học khó | Học viên | Không biết mình đã xong phase nào, còn thiếu bài nào, hoặc cần làm tiếp bước gì |
 | 12 | AI có thể tốt hơn | Không biết ưu tiên làm phần nào trước khi có nhiều deadline cùng lúc | Học viên | Dễ làm việc ít quan trọng trước, còn phần cần nộp gấp thì xử lý sát giờ |
 
@@ -230,7 +230,7 @@ Tiêu chí chọn:
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---|---|---|---|
 | 1 | Không biết bài nộp còn thiếu phần nào sau khi đọc yêu cầu lab dài | Sát với bài lab hiện tại, actor rõ, workflow dễ vẽ, có thể đo bằng thời gian kiểm tra và số mục bị thiếu | Cần biết yêu cầu bài nộp có đủ rõ để chuyển thành checklist hay không |
-| 2 | Không biết cần nộp những file nào sau khi đọc yêu cầu lab dài | Rất thực tế khi chuẩn bị nộp bài, dễ có checklist file/folder, dễ kiểm tra trước khi submit | Có thể trùng một phần với problem #1, cần xác định scope là kiểm file hay kiểm nội dung |
+| 2 | Cài đặt môi trường học/lab bị lỗi và mất nhiều thời gian tự sửa | Thực tế với các bài lab kỹ thuật, actor rõ, workflow dễ vẽ từ đọc hướng dẫn đến chạy thử và debug lỗi | Cần biết lỗi thường gặp có lặp lại đủ nhiều hay chỉ là lỗi cá nhân một lần |
 | 3 | Đọc tài liệu dài mất thời gian, khó lọc ý chính | Xảy ra thường xuyên khi học, AI có thể hỗ trợ tóm tắt và rút ra việc cần làm, dễ đo thời gian đọc | Tóm tắt của AI có thể bỏ sót ý quan trọng nếu tài liệu dài hoặc yêu cầu phức tạp |
 
 ## Problem Card template
@@ -835,3 +835,4 @@ Reflection:
 ---
 
 *Day 02 Lab — Worksheet*
+
